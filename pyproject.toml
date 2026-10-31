@@ -41,6 +41,7 @@ dev = [
     "pyfakefs",
     "pytest>=4.6",
     "pytest-cov",
+    "pytest-xdist",
     "sphinx",
     "sphinx-autodoc-typehints",
     "sphinx_rtd_theme",
